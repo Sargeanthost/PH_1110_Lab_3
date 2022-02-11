@@ -1,0 +1,1332 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.15)  10 FEB 2022 02:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**lab_3.tex
+(./lab_3.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/amsmath/amsopn.st
+y
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks17
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/geometry/geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks22
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/blindtext/blindtext
+.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count271
+\c@Blindtext=\count272
+\c@blind@countparstart=\count273
+\blind@countxx=\count274
+\blindtext@numBlindtext=\count275
+\blind@countyy=\count276
+\c@blindlist=\count277
+\c@blindlistlevel=\count278
+\c@blindlist@level=\count279
+\blind@listitem=\count280
+\c@blind@listcount=\count281
+\c@blind@levelcount=\count282
+\blind@mathformula=\count283
+\blind@Mathformula=\count284
+\c@blind@randomcount=\count285
+\c@blind@randommax=\count286
+\c@blind@pangramcount=\count287
+\c@blind@pangrammax=\count288
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks23
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/caption/subcaption.
+sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/caption/caption3.st
+y
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count289
+\c@continuedfloat=\count290
+)
+\c@subfigure=\count291
+\c@subtable=\count292
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count293
+\mult@box=\box52
+\multicol@leftmargin=\dimen163
+\c@unbalance=\count294
+\c@collectmore=\count295
+\doublecol@number=\count296
+\multicoltolerance=\count297
+\multicolpretolerance=\count298
+\full@width=\dimen164
+\page@free=\dimen165
+\premulticols=\dimen166
+\postmulticols=\dimen167
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box53
+\last@line=\box54
+\maxbalancingoverflow=\dimen168
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@gfirstbox=\box57
+\mult@firstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count299
+\c@columnbadness=\count300
+\c@finalcolumnbadness=\count301
+\last@try=\dimen169
+\multicolovershoot=\dimen170
+\multicolundershoot=\dimen171
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count302
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/enumitem/enumitem.s
+ty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen172
+\enit@toks=\toks24
+\enit@inbox=\box98
+\enit@count@id=\count303
+\enitdp@description=\count304
+) (c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count305
+\float@exts=\toks25
+\float@box=\box99
+\@float@everytoks=\toks26
+\@floatcapt=\box100
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2021-09-14 v3.0.30 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen173
+\l__siunitx_angle_marker_box=\box101
+\l__siunitx_angle_unit_box=\box102
+\l__siunitx_compound_count_int=\count306
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/translations/transl
+ations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/etoolbox/etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count307
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pdftexcmds/pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/infwarerr/infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count308
+\l__siunitx_number_min_decimal_int=\count309
+\l__siunitx_number_min_integer_int=\count310
+\l__siunitx_number_round_precision_int=\count311
+\l__siunitx_number_group_minimum_int=\count312
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics-cfg/color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics-def/pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\l__siunitx_table_tmp_box=\box103
+\l__siunitx_table_tmp_dim=\dimen174
+\l__siunitx_table_column_width_dim=\dimen175
+\l__siunitx_table_integer_box=\box104
+\l__siunitx_table_decimal_box=\box105
+\l__siunitx_table_before_box=\box106
+\l__siunitx_table_after_box=\box107
+\l__siunitx_table_before_dim=\dimen176
+\l__siunitx_table_carry_dim=\dimen177
+\l__siunitx_unit_tmp_int=\count313
+\l__siunitx_unit_position_int=\count314
+\l__siunitx_unit_total_int=\count315
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3packages/l3keys2e
+/l3keys2e.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3backend/l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count316
+\l__pdf_internal_box=\box108
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+
+Package siunitx Info: Option "separate-uncertainty" has been deprecated in
+(siunitx)             this release.
+(siunitx)             
+(siunitx)             Use "uncertainty-mode = separate" as a replacement.
+
+
+Package siunitx Info: Option "multi-part-units = repeat" has been deprecated
+(siunitx)             in this release.
+(siunitx)             
+(siunitx)             Use "separate-uncertainty-units = repeat" as a
+(siunitx)             replacement.
+
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box109
+\extrarowheight=\dimen179
+\NC@list=\toks27
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box110
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3packages/xfrac/xf
+rac.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics/graphicx.s
+ty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics/graphics.s
+ty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics-cfg/graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3packages/xparse/x
+parse.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3packages/xtemplat
+e/xtemplate.sty
+Package: xtemplate 2021-08-27 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen182
+\l__xtemplate_tmp_int=\count317
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip57
+)
+Package: xfrac 2021-08-27 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box111
+\l__xfrac_tmp_box=\box112
+\l__xfrac_denominator_bot_sep_dim=\dimen183
+\l__xfrac_numerator_bot_sep_dim=\dimen184
+\l__xfrac_numerator_top_sep_dim=\dimen185
+\l__xfrac_slash_left_sep_dim=\dimen186
+\l__xfrac_slash_right_sep_dim=\dimen187
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/newfloat/newfloat.s
+ty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-euc
+lide.sty
+2020/03/18 3.06c tkz-euclide.sty
+Package: tkz-euclide 2020/03/18 3.06c for euclidan geometry 
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-base.s
+ty
+2020/03/18 3.06c tkz-base.sty
+Package: tkz-base 2020/03/18 3.06c tkz-base
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/frontendlayer/t
+ikz.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.
+sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/utilities/pgfrc
+s.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+util-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen188
+\pgfutil@tempdimb=\dimen189
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+util-common-lists.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+util-latex.def
+\pgfutil@abb=\box113
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+rcs.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/pgf.revision.
+tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfc
+ore.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/systemlayer/pgf
+sys.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/systemlayer/p
+gfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+keys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+keysfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen190
+\pgf@y=\dimen191
+\pgf@xa=\dimen192
+\pgf@ya=\dimen193
+\pgf@xb=\dimen194
+\pgf@yb=\dimen195
+\pgf@xc=\dimen196
+\pgf@yc=\dimen197
+\pgf@xd=\dimen198
+\pgf@yd=\dimen199
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count318
+\c@pgf@countb=\count319
+\c@pgf@countc=\count320
+\c@pgf@countd=\count321
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count322
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/systemlayer/p
+gf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/systemlayer/p
+gfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/systemlayer/p
+gfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/systemlayer/p
+gfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count323
+\pgfsyssoftpath@bigbuffer@items=\count324
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/systemlayer/p
+gfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/graphics-cfg/color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmath.
+code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathc
+alc.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathu
+til.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathp
+arser.code.tex
+\pgfmath@dimen=\dimen256
+\pgfmath@count=\count325
+\pgfmath@box=\box114
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.basic.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.trigonometric.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.random.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.comparison.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.base.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.round.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.misc.code.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+unctions.integerarithmetics.code.tex)))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmathf
+loat.code.tex
+\c@pgfmathroundto@lastzeros=\count326
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfint.c
+ode.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen257
+\pgf@picmaxx=\dimen258
+\pgf@picminy=\dimen259
+\pgf@picmaxy=\dimen260
+\pgf@pathminx=\dimen261
+\pgf@pathmaxx=\dimen262
+\pgf@pathminy=\dimen263
+\pgf@pathmaxy=\dimen264
+\pgf@xx=\dimen265
+\pgf@xy=\dimen266
+\pgf@yx=\dimen267
+\pgf@yy=\dimen268
+\pgf@zx=\dimen269
+\pgf@zy=\dimen270
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen271
+\pgf@path@lasty=\dimen272
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen273
+\pgf@shorten@start@additional=\dimen274
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box115
+\pgf@hbox=\box116
+\pgf@layerbox@main=\box117
+\pgf@picture@serial@count=\count327
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen275
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen276
+\pgf@pt@y=\dimen277
+\pgf@pt@temp=\dimen278
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen279
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen280
+\pgf@sys@shading@range@num=\count328
+\pgf@shadingcount=\count329
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box118
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/basiclayer/pg
+fcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/modules/pgfmo
+duleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box119
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/modules/pgfmo
+duleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/compatibility/p
+gfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen281
+\pgf@nodesepend=\dimen282
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/compatibility/p
+gfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/utilities/pgffo
+r.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/utilities/pgfke
+ys.sty
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+keys.code.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/pgf/math/pgfmath.st
+y
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmath.
+code.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/utilities/pgf
+for.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/math/pgfmath.
+code.tex)
+\pgffor@iter=\dimen283
+\pgffor@skip=\dimen284
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count330
+\pgfplotmarksize=\dimen285
+)
+\tikz@lastx=\dimen286
+\tikz@lasty=\dimen287
+\tikz@lastxsaved=\dimen288
+\tikz@lastysaved=\dimen289
+\tikz@lastmovetox=\dimen290
+\tikz@lastmovetoy=\dimen291
+\tikzleveldistance=\dimen292
+\tikzsiblingdistance=\dimen293
+\tikz@figbox=\box120
+\tikz@figbox@bg=\box121
+\tikz@tempbox=\box122
+\tikz@tempbox@bg=\box123
+\tikztreelevel=\count331
+\tikznumberofchildren=\count332
+\tikznumberofcurrentchild=\count333
+\tikz@fig@count=\count334
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/modules/pgfmo
+dulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count335
+\pgfmatrixcurrentcolumn=\count336
+\pgf@matrix@numberofcolumns=\count337
+)
+\tikz@expandcount=\count338
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen294
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen295
+\pgfarrowlength=\dimen296
+\pgfarrowwidth=\dimen297
+\pgfarrowlinewidth=\dimen298
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarydecorations.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/modules/pgfmo
+duledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen299
+\pgfdecoratedremainingdistance=\dimen300
+\pgfdecoratedinputsegmentcompleteddistance=\dimen301
+\pgfdecoratedinputsegmentremainingdistance=\dimen302
+\pgf@decorate@distancetomove=\dimen303
+\pgf@decorate@repeatstate=\count339
+\pgfdecorationsegmentamplitude=\dimen304
+\pgfdecorationsegmentlength=\dimen305
+)
+\tikz@lib@dec@box=\box124
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarydecorations.markings.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/dec
+orations/pgflibrarydecorations.markings.code.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/dec
+orations/pgflibrarydecorations.pathreplacing.code.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarydecorations.shapes.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/dec
+orations/pgflibrarydecorations.shapes.code.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarydecorations.text.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/dec
+orations/pgflibrarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box125
+)
+\tikz@lib@dec@te@box=\box126
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/dec
+orations/pgflibrarydecorations.pathmorphing.code.tex))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryintersections.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryintersections.code.tex
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryfpu.code.tex)
+\pgf@intersect@solutions=\count340
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+librarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/pgf
+libraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/libraries/sha
+pes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/generic/pgf/frontendlayer
+/tikz/libraries/tikzlibrarythrough.code.tex
+File: tikzlibrarythrough.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/numprint/numprint.s
+ty
+Package: numprint 2012/08/20 v1.39 Print numbers (HH)
+\c@nprt@mantissa@digitsbefore=\count341
+\c@nprt@mantissa@digitsafter=\count342
+\c@nprt@exponent@digitsbefore=\count343
+\c@nprt@exponent@digitsafter=\count344
+\nprt@digitwidth=\skip58
+\nprt@sepwidth=\skip59
+\nprt@decimalwidth=\skip60
+\nprt@blockwidth=\skip61
+\nprt@digittoks=\toks40
+\nprt@pretoks=\toks41
+\nprt@posttoks=\toks42
+\nprt@thisdigit=\count345
+\nprt@curpos=\count346
+\nprt@rndpos=\count347
+\c@nprt@digitsfirstblock=\count348
+\c@nprt@blockcnt=\count349
+\c@nprt@cntprint=\count350
+ No configuration file `numprint.cfg' found.)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/l3packages/xfp/xfp.
+sty
+Package: xfp 2021-08-27 L3 Floating point unit
+) (c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count351
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count352
+\FP@xia=\count353
+\FP@xib=\count354
+\FP@xfa=\count355
+\FP@xfb=\count356
+\FP@rega=\count357
+\FP@regb=\count358
+\FP@regs=\count359
+\FP@times=\count360
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count361
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\tkzRadius=\dimen306
+\tkzLength=\dimen307
+\tkz@radi=\dimen308
+\tkz@ax=\dimen309
+\tkz@ay=\dimen310
+\tkz@bx=\dimen311
+\tkz@by=\dimen312
+\tkz@cx=\dimen313
+\tkz@cy=\dimen314
+\tkz@dx=\dimen315
+\tkz@dy=\dimen316
+\tkz@tax=\dimen317
+\tkz@tay=\dimen318
+\tkz@tbx=\dimen319
+\tkz@tby=\dimen320
+\tkz@tcx=\dimen321
+\tkz@tcy=\dimen322
+\tkz@tdx=\dimen323
+\tkz@tdy=\dimen324
+\tkz@cntmk=\count362
+
+Local configuration file tkz-base.cfg found and used
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-base.c
+fg
+2020/03/18 3.06c tkz-base.cfg
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+modules.tex
+2020/03/18 3.06c tkz-tools-utilities.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-lib-ma
+rks.tex
+2020/03/18 3.06c tkz-lib-symbols.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+base.tex
+2020/03/18 3.06c tkz-tools-base.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+utilities.tex
+2020/03/18 3.06c tkz-tools-utilities.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-too
+ls-math.tex
+2020/03/18 3.06c tkz-tools-math.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+text.tex
+2020/03/18 3.06c tkz-tools-text.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+BB.tex
+2020/03/18 3.06c tkz-obj-BB.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+arith.tex
+2020/03/18 3.06c tkz-tools-arith.tex
+File: tkz-tool-arith.tex tkz-tool-arith 3.02 c
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+print.tex
+2020/03/18 3.06c tkz-tools-print.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-tools-
+misc.tex
+2020/03/18 3.06c tkz-tools-misc.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-obj-ax
+es.tex
+2020/03/18 3.06c tkz-obj-axes.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-obj-gr
+ids.tex
+2020/03/18 3.06c tkz-obj-grids.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-obj-ma
+rks.tex
+2020/03/18 3.07c tkz-obj-marks.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-obj-po
+ints.tex
+2020/03/18 3.06c tkz-obj-points.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-base/tkz-obj-re
+p.tex
+2020/03/18 3.06c tkz-obj-rep.tex
+))
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-too
+ls-intersections.tex
+2020/03/18 3.06c tkz-tools-intersections.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-too
+ls-angles.tex
+2020/03/18 3.06c tkz-tools-angles.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-angles.tex
+2020/03/18 3.06c tkz-tool-eu-angles.tex
+\tkz@arcsize=\dimen325
+\tkz@fillsize=\dimen326
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-arcs.tex
+2020/03/23 3.06c tkz-obj-eu-arcs.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-compass.tex
+2020/03/18 3.06c tkz-obj-eu-compass.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-circles.tex
+2020/03/18 3.06c tkz-obj-eu-circles.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-draw-circles.tex
+2020/03/18 3.06c tkz-obj-eu-draw-circles.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-draw-lines.tex
+2020/03/18 3.06c tkz-obj-eu-draw-lines.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-draw-polygons.tex
+2020/03/18 3.06c tkz-obj-eu-polygons.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-draw-triangles.tex)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-lines.tex
+2020/03/18 3.06c tkz-obj-eu-lines.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-points.tex
+2020/03/18 3.06c tkz-obj-eu-points.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-points-by.tex
+2020/03/18 3.06c tkz-tools-eu-points-by.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-points-rnd.tex
+2020/03/18 3.06c tkz-obj-eu-points-rnd.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-points-with.tex
+2020/03/18 3.06c tkz-obj-eu-points-with.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-polygons.tex
+2020/03/18 3.06c tkz-obj-eu-polygons.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-protractor.tex
+2020/03/18 3.06c tkz-obj-eu-protractor.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-sectors.tex
+2020/03/18 3.06c tkz-obj-eu-sectors.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-show.tex
+2020/03/18 3.06c tkz-obj-eu-show.tex
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/tkz-euclide/tkz-obj
+-eu-triangles.tex
+2020/03/18 3.06c tkz-obj-eu-triangles.tex
+))
+Package newfloat Info: New float `meme' with options `fileext=lop' on input lin
+e 27.
+\c@meme=\count363
+Package newfloat Info: float type `meme'=4 on input line 27.
+\c@submeme=\count364
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 31.
+ (C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/lab_3.aux)
+\openout1 = `lab_3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(18.06749pt, 758.835pt, 18.06749pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=758.835pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-91.2025pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\symgns@font=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 31.
+Package gensymb Info: Math companion symbols declared on input line 31.
+LaTeX Info: Redefining \degree on input line 31.
+LaTeX Info: Redefining \celsius on input line 31.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 31.
+LaTeX Info: Redefining \ohm on input line 31.
+Package gensymb Info: Using \textohm for \ohm on input line 31.
+Package gensymb Info: Using \textmu for \micro on input line 31.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/translations/transl
+ations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 31.
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/context/base/mkii/supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count365
+\scratchdimen=\dimen327
+\scratchbox=\box127
+\nofMPsegments=\count366
+\nofMParguments=\count367
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count368
+\MPscratchDim=\dimen328
+\MPnumerator=\count369
+\makeMPintoPDFobject=\count370
+\everyMPtoPDFconversion=\toks44
+)
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/epstopdf-pkg/epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/Programs/TeXLive/Installation/2021/texmf-dist/tex/latex/latexconfig/epstopd
+f-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package newfloat Info: `float' package detected.
+<../imgs//1d_velo.png, id=29, 647.41875pt x 404.51125pt>
+File: ../imgs//1d_velo.png Graphic file (type png)
+<use ../imgs//1d_velo.png>
+Package pdftex.def Info: ../imgs//1d_velo.png  used on input line 43.
+(pdftex.def)             Requested size: 216.81pt x 135.46426pt.
+
+./lab_3.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50         \item \displaystyle
+                                \(\Delta x = v_0 t + \frac{1}{2} a t^2\)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./lab_3.tex:50: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50         \item \displaystyle\(
+                                  \Delta x = v_0 t + \frac{1}{2} a t^2\)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../imgs//1d_pos.png, id=30, 626.34pt x 414.54875pt>
+File: ../imgs//1d_pos.png Graphic file (type png)
+<use ../imgs//1d_pos.png>
+Package pdftex.def Info: ../imgs//1d_pos.png  used on input line 55.
+(pdftex.def)             Requested size: 216.8043pt x 130.08383pt.
+[1
+
+{c:/Programs/TeXLive/Installation/2021/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map} <C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/../imgs//1d_velo.png> 
+<C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/../imgs//1d_pos.png>]
+<../imgs//2d_x_velo_(Custom).png, id=42, 406.51875pt x 263.48438pt>
+File: ../imgs//2d_x_velo_(Custom).png Graphic file (type png)
+<use ../imgs//2d_x_velo_(Custom).png>
+Package pdftex.def Info: ../imgs//2d_x_velo_(Custom).png  used on input line 71
+.
+(pdftex.def)             Requested size: 180.67386pt x 122.86069pt.
+<../imgs//2d_x_pos_(Custom).png, id=43, 414.04688pt x 263.48438pt>
+File: ../imgs//2d_x_pos_(Custom).png Graphic file (type png)
+<use ../imgs//2d_x_pos_(Custom).png>
+Package pdftex.def Info: ../imgs//2d_x_pos_(Custom).png  used on input line 77.
+
+(pdftex.def)             Requested size: 180.67754pt x 122.86069pt.
+
+Overfull \hbox (5.22215pt too wide) in paragraph at lines 69--80
+[][]  [] 
+ []
+
+<../imgs//2d_y_velo_(Custom).png, id=44, 406.51875pt x 263.48438pt>
+File: ../imgs//2d_y_velo_(Custom).png Graphic file (type png)
+<use ../imgs//2d_y_velo_(Custom).png>
+Package pdftex.def Info: ../imgs//2d_y_velo_(Custom).png  used on input line 86
+.
+(pdftex.def)             Requested size: 180.67386pt x 122.86069pt.
+<../imgs//2d_y_pos_(Custom)_1.png, id=46, 406.51875pt x 263.48438pt>
+File: ../imgs//2d_y_pos_(Custom)_1.png Graphic file (type png)
+<use ../imgs//2d_y_pos_(Custom)_1.png>
+Package pdftex.def Info: ../imgs//2d_y_pos_(Custom)_1.png  used on input line 9
+2.
+(pdftex.def)             Requested size: 180.67386pt x 122.86069pt.
+
+Overfull \hbox (5.22215pt too wide) in paragraph at lines 84--95
+[][]  [] 
+ []
+
+[2 <C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/../imgs//2d_x_velo_(Custo
+m).png> <C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/../imgs//2d_x_pos_(C
+ustom).png> <C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/../imgs//2d_y_ve
+lo_(Custom).png> <C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/../imgs//2d
+_y_pos_(Custom)_1.png>] [3] [4]
+(C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/lab_3.aux) ) 
+Here is how much of TeX's memory you used:
+ 25855 strings out of 478599
+ 590929 string characters out of 5847079
+ 859969 words of memory out of 5000000
+ 43167 multiletter control sequences out of 15000+600000
+ 412617 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 114i,9n,117p,437b,1122s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Programs/TeX
+Live/Installation/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:
+/Programs/TeXLive/Installation/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb><c:/Programs/TeXLive/Installation/2021/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb><c:/Programs/TeXLive/Installation/2021/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><c:/Programs/TeXLive/Installation/2021/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Programs/TeXLive/Installatio
+n/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Programs/TeXLive
+/Installation/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Progr
+ams/TeXLive/Installation/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><c:/Programs/TeXLive/Installation/2021/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb><c:/Programs/TeXLive/Installation/2021/texmf-dist/fonts/type1/p
+ublic/cm-super/sfrm1200.pfb>
+Output written on "C:/Users/sarge/Documents/School/PH 1110/Lab 3/out/lab_3.pdf"
+ (4 pages, 256081 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+
